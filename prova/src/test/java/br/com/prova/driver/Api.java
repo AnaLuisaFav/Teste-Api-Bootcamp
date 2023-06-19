@@ -84,6 +84,4 @@ public class Api {
         }
         return String.valueOf(Math.round(Double.parseDouble(retorno)));
     }
-
-    //https://api.openweathermap.org/data/2.5/weather?lat=-8.0584933&lon=-34.8848193&appid=fcc391982f70cc4d5aafac9d0f17c04e&units=metric
 }
