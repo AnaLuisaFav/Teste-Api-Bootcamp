@@ -8,20 +8,20 @@
 
 https://github.com/AnaLuisaFav/Teste-Api-Bootcamp/assets/125583157/fe1c5aa0-a1b4-4d08-a046-4e6603c60603
 
-*<h3>Sobre - *About*</h3>*
+*<h2>Sobre - *About*</h2>*
 
 <img src="https://github.com/AnaLuisaFav/Interactive-rating-component/assets/125583157/2ae8d39b-cd3b-4e51-9697-a889efe168f3" alt="image" style="width: 20px"> O objetivo desse teste é validar os retornos da API comparando-os com as informações obtidas no site.
 
 <img src="https://github.com/AnaLuisaFav/Interactive-rating-component/assets/125583157/7829887e-fb45-4d07-973d-0b4b20dac189" alt="image" style="width: 20px"> The purpose of this test is to validate the API returns against the information on the website.
 
-*<h3>Ferramentas utilizadas - *Tools used*</h3>*
+*<h2>Ferramentas utilizadas - *Tools used*</h2>*
 
 ![Postman](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-*<h3>Linguagem - *Language*</h3>*
+*<h2>Linguagem - *Language*</h2>*
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
-*<h3>Vamos nos conectar - *Let's connect?* 👋</h3>*
+*<h2>Vamos nos conectar - *Let's connect?* 👋</h2>*
 
 <div>
 
