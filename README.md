@@ -1,6 +1,5 @@
 ![image](https://github.com/AnaLuisaFav/Teste-Api-Bootcamp/assets/125583157/9155c9ae-bf9e-4beb-8ae0-939a7206a7c9)
 <div align="center"> 
-  <h1>Desafio Final Bootcamp QA - Sysmap</h1>
 
 </div>
 
@@ -21,7 +20,7 @@ https://github.com/AnaLuisaFav/Teste-Api-Bootcamp/assets/125583157/fe1c5aa0-a1b4
 *<h2>Linguagem - *Language*</h2>*
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
-*<h2>Vamos nos conectar - *Let's connect?* 👋</h2>*
+*<h2>Vamos nos conectar? - *Let's connect?* 👋</h2>*
 
 <div>
 
